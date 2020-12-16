@@ -1,5 +1,6 @@
 # Subscription
 A simple subscription service
+
 HOW TO INSTALL: Run command "mvn install"
 HOW TO RUN: Left click on "EzypayApplication" and run as "Java Application"
 
